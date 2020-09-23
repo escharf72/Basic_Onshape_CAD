@@ -10,6 +10,7 @@ Reflection: This assignment was mostly helpful to me in just increasing my confi
 Reflection: This assignment taught me to expand my ideas about how to produce the part that I have in mind. If I wasn't following instructions for this assignment, I probably would have chosed to revolve a circle. It certainly wouldn't have occurred to me to revolve a trapezoid and then fillet the edges. But having done this assignment I can see the benefits of using a trapezoid and then filleting in order to create a bit more traction on the tire. This causes me to think more about how I can acheive my design goals with less conventional routes that will produce better results. 
 5. Wheel
 Reflection: This assignment brought back memories of working on the caster assignment for the first time in 8th grade. I had such a hard time with the spokes, trying to get them even by dragging lines around. The method in this assignment is so much more fluid and effective than my attempts three years ago, and I can see how a bit of math can keep you organized and create clean and professional designs. 
+
 6-9. Axle, Collar, and Bearings
 Reflection: I thought it was so cool that I could create multiple objects within the same part studio and that Onshape would recognize that that's what it was and organize it for me. I'm just beginning to explore Onshape, but I love how they organize all the information and make it user-friendly. 
 10. Sub-Assembly

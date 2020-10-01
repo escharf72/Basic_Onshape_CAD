@@ -64,5 +64,11 @@ Reflection: Seeing the culmination of the caster was exciting, realizing that I 
 https://cvilleschools.onshape.com/documents/8363528224f20aa8a3c2da27/w/a840d1aa144c38fbb7f83636/e/104953e40e859db91250ae4e
 
 **Description:** My task was to learn how to use configurations in Onshape by fulfilling a request from a "client" in the most efficient way. (Work smarter not harder.) The second part of the assignment was to use those dowels to construct a picture frame in Onshape. 
+
 **Reflection:** I have been terrified of configurations ever since I did the gear assignment my freshman year. I didn't understand how they worked and felt that it was easier for me to work harder not smarter. *However*, having done this Onshape configurations assignment, I now understand how useful configurations can be and how simple they are once you get the logic. It was super simple to set them up and create the various configurations, and the hardest part was just figuring out which dimension/feature I needed to edit in order to acheive the desired results. The sides of the picture frame probed to be much more difficult than the dowels because I had to think about the geometry of the trapezoid shape and what dimension I could edit without skewing the proportions. 
+
 **Results:** I am so much more confident with configurations now and hope to be able to use them in my projects later on. 
+
+<img src="Media/Screenshot%202020-10-01%20at%201.50.29%20PM.png" width="500">
+<img src="Media/Screenshot%202020-10-01%20at%201.50.36%20PM.png" width="500">
+<img src="Media/Screenshot%202020-10-01%20at%201.50.57%20PM.png" width="500">

@@ -72,3 +72,10 @@ https://cvilleschools.onshape.com/documents/8363528224f20aa8a3c2da27/w/a840d1aa1
 <img src="Media/Screenshot%202020-10-01%20at%201.50.29%20PM.png" width="500">
 <img src="Media/Screenshot%202020-10-01%20at%201.50.36%20PM.png" width="500">
 <img src="Media/Screenshot%202020-10-01%20at%201.50.57%20PM.png" width="500">
+
+
+## Onshape Challenge ## 
+**Description:**
+The challenge was to create a spinner mechanism 
+**Reflection/Lessons Learned:**
+

@@ -76,6 +76,8 @@ https://cvilleschools.onshape.com/documents/8363528224f20aa8a3c2da27/w/a840d1aa1
 
 ## Onshape Challenge ## 
 **Description:**
-The challenge was to create a spinner mechanism 
+The challenge was to create a spinner mechanism with minimal instructions. 
 **Reflection/Lessons Learned:**
+This assignment helped me to be more confident in my Onshape skills and to improve my patience and perseverence. 
+Mates were by far the most difficult thing for me in this assignment, but I was introduced to many of the mates as I tried to figure out which ones to use. 
 
